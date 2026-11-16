@@ -2,7 +2,7 @@
 
 A machine learning pipeline for inferring SQL data types (VARCHAR, NUMBER, BOOLEAN, TIME) of CSV columns from structural statistics and FastText column-name embeddings.
 
-Paper: *DTProfiler: SQL Data Type Inference For Automated Data Pipelines Using Machine Learning* 
+Paper: *DTProfiler: SQL Data Type Inference For Automated Data Pipelines Using Machine Learning* [paper in preparation]
 
 ## Quick Look: Why Regex Typing Fails
 
