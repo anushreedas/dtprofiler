@@ -1,0 +1,25 @@
+.DS_Store
+__MACOSX/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/*.log
+# large local artifacts
+model/crawl-300d-2M-subword.vec
+data/raw/
+data/data_source_files.txt
+data/oov_results_fast_text.csv
+data/features_auto_labeled.csv
+results_quick/
+
+# local environment / IDE
+venv/
+.venv/
+.idea/
+.vscode/
+
+# generated locally, not part of the published results
+05_model_pipeline_files/
+oov_score_bp.png
+results/_archive/
+results/grid_cache/
